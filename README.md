@@ -35,12 +35,4 @@ The goal is to help users **understand financial growth patterns**, compare comp
 
 ---
 
-## 🚀 How to Use
-1. Clone/download the repository.  
-2. Open the `.pbix` file in Power BI Desktop.  
-3. Explore the dashboard with filters & visuals.  
 
----
-
-## 📂 Repository Structure
-![Uploading Screenshot 2025-09-17 015124.png…]()
