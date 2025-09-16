@@ -43,3 +43,4 @@ The goal is to help users **understand financial growth patterns**, compare comp
 ---
 
 ## 📂 Repository Structure
+![Uploading Screenshot 2025-09-17 015124.png…]()
